@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Golem Design System',
-  tagline: 'An AI Compatible Design System',
+  tagline: 'An AI Compatible Design System (0.1)',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
