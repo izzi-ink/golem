@@ -1,0 +1,8 @@
+{
+  "label": "AI Agents",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Golem provides a comprehensive framework for implementing AI agents within the Golem design system, ensuring consistency, usability, and ethical considerations across different SRE applications."
+  }
+}
