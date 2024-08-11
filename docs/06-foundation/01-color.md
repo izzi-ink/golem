@@ -62,3 +62,7 @@ Rule: Use a consistent color scale to represent severity levels in alerts or iss
 Rule: Use a distinct color (e.g., teal) to highlight AI-suggested actions or recommendations.
 
 These color rules aim to enhance usability, consistency, and intuitiveness in AI-driven interfaces within the Golem design system.
+
+## Figma Colour Library
+
+[The library for colour is published here Figma Color Library](https://www.figma.com/community/file/1404426880714008875/golem-basic-elements)
