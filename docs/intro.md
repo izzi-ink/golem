@@ -4,13 +4,17 @@ sidebar_position: 1
 
 # Intro
 
-In an era where AI is becoming increasingly integrated into our daily lives, we're excited to introduce Golem: a groundbreaking design system for embedded AI that draws inspiration from Isaac Asimov's Three Laws of Robotics. Golem aims to create a framework for AI that seamlessly interacts with humans, prioritizing ethical behavior and user-centric design.
+Golem is a design system for embedded AI that draws inspiration from Jewish mythology and Isaac Asimov's Three Laws of Robotics. 
+
+In Jewish mythology the Golem, is an animated being, created from inanimate mud and clay. Using mystical rituals, the rabbi brought the Golem to life by inscribing the word "emet" (truth) on its forehead. The Golem obeyed his commands but grew increasingly uncontrollable. To stop it, Rabbi Loew erased a letter from "emet," turning it into "met" (death), which deactivated the Golem.
+
+Golem aims to create a framework for AI that seamlessly interacts with humans, prioritizing ethical behavior and user-centric design.
 
 ## What is embedded AI?
 
 Embedded AI refers to artificial intelligence systems that are integrated directly into user-facing products and services. These AIs are designed to interact with humans in natural, intuitive ways, often through voice commands, gesture recognition, or predictive interfaces. The challenge lies in creating AI systems that are not only functional but also ethical and user-friendly.
 
-### The 3 Laws of Golem for Embedded AI
+### The 3 Laws of Robotics for Golem and Embedded AI
 
 1. **A Golem AI component must prioritize user well-being and privacy in all interactions.**
    

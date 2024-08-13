@@ -1,7 +1,7 @@
 
 # Golem skinny AI.
 
-Baseline set of categories for the Golem Design System. This design system appears to focus on embedding AI into user interfaces and interactions in an ethical and user-centric way. Here are some suggested categories:
+For the next release, we will focus on simplifying the design system, and collapse or expand some sections.
 
 1. Core Principles
    - Ethical AI guidelines
